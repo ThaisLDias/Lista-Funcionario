@@ -1,0 +1,17 @@
+C:\Users\Thais.Alves.NAVE0\Desktop\ListaFuncionarios\ListaFuncionarios\bin\Debug\ListaFuncionarios.exe.config
+C:\Users\Thais2\Desktop\ListaFuncionarios\ListaFuncionarios\bin\Debug\ListaFuncionarios.exe.config
+C:\Users\Thais2\Desktop\ListaFuncionarios\ListaFuncionarios\bin\Debug\ListaFuncionarios.exe
+C:\Users\Thais2\Desktop\ListaFuncionarios\ListaFuncionarios\bin\Debug\ListaFuncionarios.pdb
+C:\Users\Thais2\Desktop\ListaFuncionarios\ListaFuncionarios\obj\Debug\ListaFuncionarios.Form1.resources
+C:\Users\Thais2\Desktop\ListaFuncionarios\ListaFuncionarios\obj\Debug\ListaFuncionarios.Properties.Resources.resources
+C:\Users\Thais2\Desktop\ListaFuncionarios\ListaFuncionarios\obj\Debug\ListaFuncionarios.csproj.GenerateResource.Cache
+C:\Users\Thais2\Desktop\ListaFuncionarios\ListaFuncionarios\obj\Debug\ListaFuncionarios.exe
+C:\Users\Thais2\Desktop\ListaFuncionarios\ListaFuncionarios\obj\Debug\ListaFuncionarios.pdb
+C:\Users\Thais.Alves.NAVE0\Desktop\ListaFuncionarios\ListaFuncionarios\obj\Debug\ListaFuncionarios.exe
+C:\Users\Thais.Alves.NAVE0\Desktop\ListaFuncionarios\ListaFuncionarios\obj\Debug\ListaFuncionarios.pdb
+C:\Users\Thais.Alves.NAVE0\Desktop\ListaFuncionarios\ListaFuncionarios\obj\Debug\ListaFuncionarios.csprojResolveAssemblyReference.cache
+C:\Users\Thais.Alves.NAVE0\Desktop\ListaFuncionarios\ListaFuncionarios\obj\Debug\ListaFuncionarios.Form1.resources
+C:\Users\Thais.Alves.NAVE0\Desktop\ListaFuncionarios\ListaFuncionarios\obj\Debug\ListaFuncionarios.Properties.Resources.resources
+C:\Users\Thais.Alves.NAVE0\Desktop\ListaFuncionarios\ListaFuncionarios\obj\Debug\ListaFuncionarios.csproj.GenerateResource.Cache
+C:\Users\Thais.Alves.NAVE0\Desktop\ListaFuncionarios\ListaFuncionarios\bin\Debug\ListaFuncionarios.exe
+C:\Users\Thais.Alves.NAVE0\Desktop\ListaFuncionarios\ListaFuncionarios\bin\Debug\ListaFuncionarios.pdb
